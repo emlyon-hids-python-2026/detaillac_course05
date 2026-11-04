@@ -1,3 +1,7 @@
+# detaillac_course05
+
+This project writes hello to the world with the help of our teacher's setup
+
 # Prerequisites Installation
 
 # Windows
