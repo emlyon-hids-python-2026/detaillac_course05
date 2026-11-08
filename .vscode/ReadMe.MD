@@ -1,7 +1,3 @@
-# detaillac_course05
-
-This project writes hello to the world with the help of our teacher's setup. It's purpose is educational: to learn how to create and push a project from vs code to git.
-
 # Prerequisites Installation
 
 # Windows
