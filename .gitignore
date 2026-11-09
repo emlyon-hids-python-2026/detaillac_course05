@@ -9,4 +9,8 @@ wheels/
 # Virtual environments
 .venv
 data/*
+<<<<<<< HEAD
 !data/.gitkeep
+=======
+!data/.gitkeep
+>>>>>>> 4f2bcef (feat(notebooks): add demo notebook with hello world example)
